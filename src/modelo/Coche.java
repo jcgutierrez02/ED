@@ -3,5 +3,7 @@ package modelo;
 
 public class Coche {
     
-    String matricula;   
+    String matricula;  
+    /* Desarrollador 2 en rama master */
+    String color;
 }
