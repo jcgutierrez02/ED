@@ -24,13 +24,6 @@ public class Coche {
         this.color = color;
     }
 
-    public String getModelo() {
-        return modelo;
-    }
-
-    public void setModelo(String modelo) {
-        this.modelo = modelo;
-    }
-    
+     
     
 }
